@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Atlas>
+    <Texture filename="minimap_dst_wendy.tex"/>
+    <Elements>
+        <Element name="abigail_flower.png" u1="0" u2="0.496063" v1="0" v2="1"/>
+        <Element name="sisturn.png" u1="0.503937" u2="1" v1="0" v2="1"/>
+    </Elements>
+    <StraightAlpha>false</StraightAlpha>
+</Atlas>
+
